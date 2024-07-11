@@ -1,0 +1,1 @@
+This is a RockPaperScissorsBot for a simple game, created for Telegram. This bot has modular structure and builded with aiogram. The bot is simple, but its still a good example of aiogram bot for Telegram.
